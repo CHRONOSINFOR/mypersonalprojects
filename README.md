@@ -1,2 +1,2 @@
 # mypersonalprojects
-minha pasta de
+minha pasta de projetos pessoais
